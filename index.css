@@ -1,0 +1,172 @@
+.navigation{
+  display: flex;
+  justify-content: space-around;
+  justify-items: center;
+  
+}
+.nam1{
+  font-size: 40px;
+  font-weight: bolder;
+}
+
+.btn{
+ font-size: x-large;
+ padding-left: 3ch;
+ padding-right: 30px;
+ padding-top: 5px;
+ padding-bottom: 5px;
+ border-radius: 10px;
+ font-weight: bolder;
+}
+
+
+
+.back{
+  background-image: url(Hero-bg.png);
+  height: 662px;
+  width: 1440;
+  text-align: center;
+}
+.bottom{
+ font-size: 20px ;
+ padding: 20px 80px ;
+ background-color: black;
+ font-weight: bold;
+ color: white;
+border-radius: 15px;
+}
+.size{
+  font-size: 48px;
+  font-family: "azeret Mono";
+}
+.loam{
+  font-size: 30px;
+}
+.center{
+  text-align: center;
+}
+.learn{
+  
+  font-weight: bold;
+  padding:  
+  ;
+}
+.flix{
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+}
+.all_div{
+  height: 1393;
+  width: 1140;
+  background-color: beige;
+}
+.flix2{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.flex3{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.hading{
+  text-align: center;
+  
+}
+.Raihan{
+  text-align: center;
+}
+.flix4{
+  display: flex;
+  justify-content: space-around;
+}
+.box1{
+  background-color: bisque;
+  width: 300px;
+  height: 300px;  
+  padding: 50px;
+  border: 1px solid blue
+  
+  ;
+}
+.box2{
+  background-color: rgb(131, 147, 159);
+  width: 300px;
+  height: 300px;  
+  padding: 50px;
+  border: 1px solid rgb(56, 56, 61)
+}
+.box3{
+  background-color: rgb(233, 231, 228);
+  width: 300px;
+  height: 300px;  
+  padding: 50px;
+  border: 1px solid blue
+}
+.next_target{
+  text-align: center;
+}
+.num1{
+  border:1px solid black ;
+display: flex;
+justify-items: center;
+padding: 50px;
+  
+}
+.num2{
+  border:1px solid black ;
+display: flex;
+justify-items: center;
+padding: 50px;
+}
+.num3{
+  border:1px solid black ;
+display: flex;
+justify-items: center;
+padding: 50px;
+  
+}
+.handshake{
+  background-image: url("handshake.jpg");
+  height: 650px;
+  width: 70%;
+margin-left: 15%;
+}
+.flix8{
+  display: flex;
+  justify-content: space-around;
+}
+.rana{
+text-align: center;
+}
+
+.fro{
+  font-size: x-large;
+}
+.sumi{
+  font-size:large;
+  width: 600px;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.btn2{
+  font-size: large;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+
+.flix8{
+  background-color: aliceblue;
+  
+}
+
+
+
+.azeret-mono-normal{
+  font-family: "Azeret Mono", monospace;
+}
+
